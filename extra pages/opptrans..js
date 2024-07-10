@@ -1,0 +1,4 @@
+document.getElementById("lang").onclick = function(){
+    document.getElementById("opptitle").textContent = "Opposition"
+    document.getElementById("opppara").textContent = "France banned slavery in 1315 but it was later used in colonies Japan abolished chattel slavery in 1590 under Toyotomi Hideyoshi, although forced labor continued during World War II Haiti, a former French colony, was self-released from slavery after the revolution of 1791–1804 The British Empire banned the slave trade in 1807, and slavery was abolished in 1833 Vermont abolished slavery in 1777, with the northern US states following by 1804, but the United States did not outlaw slavery until 1865"
+}
